@@ -14,7 +14,7 @@
 
 6 - [As a composer Margaret likes this article about the rhythm of a page](https://24ways.org/2006/compose-to-a-vertical-rhythm)
 
-7 - [Wordpress tutorials designers](the provided link: http://www.creativebloq.com/web-design/wordpress-tutorials-designers-1012990)
+7 - [Wordpress tutorials designers](http://www.creativebloq.com/web-design/wordpress-tutorials-designers-1012990)
 
 8 - [Site Link](http://www.awwwards.com/awards-of-the-day/)
 
@@ -26,9 +26,9 @@
 If you're only working with sound, here's a great introduction to [soundcloud](http://mashable.com/2013/11/10/soundcloud-beginners-guide/#z_EiCafuK5qY):
 
 If you're using Vimeo, you'll want to compress your [videos](https://vimeo.com/help/compression
-) correctly
+) correctly.
 
-How do you decide which social [media platforms](https://moz.com/beginners-guide-to-social-media) to use? (Melissa keeps trying to Margaret to join Instagram.... hasn't happened yet but she might be coming around)
+How do you decide which social [media platforms](https://moz.com/beginners-guide-to-social-media) to use?
 
 11 - [Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 
