@@ -39,3 +39,7 @@ How do you decide which social [media platforms](https://moz.com/beginners-guide
 14 - [color basics](https://color.adobe.com/create/color-wheel/)
 
 15 - [compress image](https://tinypng.com/)
+
+## Some useful resources
+
+1 - [Emoji](design_resources.RMD)
